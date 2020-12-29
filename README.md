@@ -20,3 +20,29 @@ L'application Projet_4A permet à un utilisateur de s'inscrire et de se connecte
 
 
 ## Design 
+
+Écran Login de l'application:
+
+<img src="Images/Login.jpg" width="250" height="500">
+<img src="Images/Login2.jpg" width="250" height="500">
+<img src="Images/Login3.jpg" width="250" height="500">
+<img src="Images/Login4.jpg" width="250" height="500">
+<img src="Images/Login5.jpg" width="250" height="500">
+
+Écran Sign Up de l'application:
+
+<img src="Images/SignUp.jpg" width="250" height="500">
+<img src="Images/SignUp1.jpg" width="250" height="500">
+<img src="Images/SignUp2.jpg" width="250" height="500">
+<img src="Images/SignUp3.jpg" width="250" height="500">
+<img src="Images/SignUp4.jpg" width="250" height="500">
+<img src="Images/SignUp5.jpg" width="250" height="500">
+
+Liste de films avec possibilité de naviguer sur la liste:
+
+<img src="Images/Login_Api_Co_Success2.jpg" width="250" height="500">
+
+Détails d'un film en cliquant dessus :
+
+<img src="Images/Movie_Detail.jpg" width="250" height="500">
+<img src="Images/MovieInfo.jpg" width="250" height="500">
